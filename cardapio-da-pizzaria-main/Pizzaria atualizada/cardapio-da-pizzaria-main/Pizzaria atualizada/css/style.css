@@ -1,0 +1,19 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-amarelo {
+    background-color: #ffffff;
+    color: black;
+    font-weight: bold;
+}
+.btn-azul:hover{
+backgroud-color: #000dff;
+color: black;
+font-weight: bold;
+}
+#btn-branco{
+    backgroud-color: #ffffff;
+    color: #ffffff;
+    font-weight: bold;
+}
